@@ -13,7 +13,7 @@
 
 Результаты зачетного задания нужно отправить до 17:00 25.06 либо по почте (nachatoi@fbb.msu.ru), либо в [telegram](https://t.me/Subpolare) в свободном стиле: можете на бумаге, можете в электронном виде — в любом случае проверю. 24 и 25 июня я нахожусь в МФТИ от рассвета до заката, так что меня можно позвать и попросить помощи. Пишите в telegram (если не отвечу в течение 10-15 минут, можете позвонить через тот же telegram). 
 
-Для пятого занятия будет использоваться уже установленная на компьютеры программа MEGA. Желающие прийти со своими компьютерами или просто установить эту программу могут скачать ее либо с [официальнома сайта](https://www.megasoftware.net), либо [по ссылке](https://disk.yandex.ru/d/EaJjL_iQNbxvSQ). В качестве альтерантивы будут использоваться следующие онлайн-ресурсы: [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome), [выравнивание](https://www.ebi.ac.uk/Tools/msa/clustalo/) и [деревья](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/).
+Для пятого занятия будет использоваться уже установленная на компьютеры программа MEGA. Желающие прийти со своими компьютерами или просто установить эту программу могут скачать ее либо с [официальнома сайта](https://www.megasoftware.net), либо [по ссылке](https://disk.yandex.ru/d/EaJjL_iQNbxvSQ). В качестве альтерантивы будут использоваться следующие онлайн-ресурсы: [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome), [выравнивание](https://www.ebi.ac.uk/Tools/msa/clustalo/) и [деревья](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/). Последовательности: https://disk.yandex.ru/d/L1AkyP39_mRuXA
 
 **Получили зачет:**
 1. Боженкова Светлана
