@@ -22,7 +22,7 @@
 
 Необходимые для работы на последнем занятии ссылки: 
 * Последовательности из BLAST: https://disk.yandex.ru/d/L1AkyP39_mRuXA
-* Выравнивание: https://disk.yandex.ru/d/c4fL3ZUbPB5Hpw
+* [Выравнивание](https://disk.yandex.ru/d/c4fL3ZUbPB5Hpw) пакетом программ EMBOSS при помощи Clustal Omega, как альтернативу можно использовать [усредненное выравнивание](https://www.ebi.ac.uk/Tools/msa/emboss_cons/) из множества методов или [отдельные методы из списка](https://www.ebi.ac.uk/Tools/msa/). 
 * Итоговое дерево в формате MEGA: https://disk.yandex.ru/d/09r_JxeJOL1ncQ
 
 Анекдот про биоинформатика можно найти [по ссылке](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl). Концовку я смял и прочитал не полностью, так что можете перечитать :)
