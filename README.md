@@ -15,4 +15,13 @@
 
 Для пятого занятия будет использоваться уже установленная на компьютеры программа MEGA. Желающие прийти со своими компьютерами или просто установить эту программу могут скачать ее либо с [официальнома сайта](https://www.megasoftware.net), либо [по ссылке](https://disk.yandex.ru/d/EaJjL_iQNbxvSQ). В качестве альтерантивы будут использоваться следующие онлайн-ресурсы: [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome), [выравнивание](https://www.ebi.ac.uk/Tools/msa/clustalo/) и [деревья](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/).
 
+**Получили зачет:**
+1. Боженкова Светлана
+2. Епишина Арина
+3. Яшенина Таня
+4. Никитин Егор
+5. Нахимовский Артем
+6. Караваева Аня
+7. 
+
 
