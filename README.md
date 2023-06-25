@@ -20,10 +20,10 @@
 2. EMBOSS для [создания выравниваний методом Clustal Omega](https://www.ebi.ac.uk/Tools/msa/clustalo/). 
 3. EMBOSS для [построения деревьев](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/) (доступен в том числе метод UPGMA). 
 
-Необходимые для работы на последнем занятии ссылки: 
-* Последовательности из BLAST: https://disk.yandex.ru/d/L1AkyP39_mRuXA
+Необходимые для работы на последнем занятии материалы и дополнительные ссылки: 
+* [Последовательности из BLAST](https://disk.yandex.ru/d/L1AkyP39_mRuXA), к которым добавлена исходная последовательность и самая базальная цианобактерия *Gleobacter violaceus*.
 * [Выравнивание](https://disk.yandex.ru/d/c4fL3ZUbPB5Hpw) пакетом программ EMBOSS при помощи Clustal Omega, как альтернативу можно использовать [усредненное выравнивание](https://www.ebi.ac.uk/Tools/msa/emboss_cons/) из множества методов или [отдельные методы из списка](https://www.ebi.ac.uk/Tools/msa/). 
-* Итоговое дерево в формате MEGA: https://disk.yandex.ru/d/09r_JxeJOL1ncQ
+* [Итоговое дерево](https://disk.yandex.ru/d/09r_JxeJOL1ncQ) в формате MEGA. Другие деревья (например, методом Neighbour-joining) можно построить [по ссылке в EMBOSS](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/). Другие методы доступны в MEGA. 
 
 Анекдот про биоинформатика можно найти [по ссылке](https://elementy.ru/nauchno-populyarnaya_biblioteka/432183/Bioinformatiki_proiskhozhdenie_i_zhiznennyy_tsikl). Концовку я смял и прочитал не полностью, так что можете перечитать :)
 
