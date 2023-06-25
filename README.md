@@ -16,7 +16,7 @@
 ## Дополнительные материалы к компьютерному практикуму
 
 Для пятого занятия использовалась программа MEGA, которую можно скачать либо с [официальнома сайта](https://www.megasoftware.net), либо [по ссылке](https://disk.yandex.ru/d/EaJjL_iQNbxvSQ). В качестве альтерантивы легко доступной и понятной альтернативы на занятии использовались следующие онлайн-ресурсы: 
-1. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome),
+1. [BLAST](https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastn&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome) в базе данных [NCBI](https://www.ncbi.nlm.nih.gov). 
 2. EMBOSS для [создания выравниваний методом Clustal Omega](https://www.ebi.ac.uk/Tools/msa/clustalo/). 
 3. EMBOSS для [построения деревьев](https://www.ebi.ac.uk/Tools/phylogeny/simple_phylogeny/) (доступен в том числе метод UPGMA). 
 
